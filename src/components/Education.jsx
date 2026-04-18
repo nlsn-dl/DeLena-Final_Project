@@ -11,7 +11,13 @@ function Education() {
         <div>
           <h3 className="font-semibold">University of the Cordilleras</h3>
           <p className="text-[#567C8D]">Bachelor of Science in Information Technology - Web Technology</p>
-          <span className="text-sm">2022 - 2027</span>
+          <span className="text-sm">2023 - 2027</span>
+        </div>
+
+        <div>
+          <h3 className="font-semibold">Saint Louis University</h3>
+          <p className="text-[#567C8D]">Bachelor of Science in Architecture</p>
+          <span className="text-sm">2022 - 2023</span>
         </div>
 
         <div>
